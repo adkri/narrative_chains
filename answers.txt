@@ -1,0 +1,3 @@
+InputStoryid,AnswerRightEnding
+138d5bfb-05cc-41e3-bf2c-fa85ebad14e2,1
+bff9f820-9605-4875-b9af-fe6f14d04256,2
